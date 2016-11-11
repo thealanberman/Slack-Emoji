@@ -9,6 +9,7 @@ A bunch of Slack Emoji which have accumulated over time. Use 'em if you wish.
   <img src='emoji/aw_yeah.gif' height='22' />
   <img src='emoji/awesome-face.png' height='22' />
   <img src='emoji/baguette.png' height='22' />
+  <img src='emoji/batman-approves.png' height='22' />
   <img src='emoji/batman2.png' height='22' />
   <img src='emoji/beaver.gif' height='22' />
   <img src='emoji/blender.png' height='22' />
@@ -79,6 +80,7 @@ A bunch of Slack Emoji which have accumulated over time. Use 'em if you wish.
   <img src='emoji/huey.png' height='22' />
   <img src='emoji/ie.png' height='22' />
   <img src='emoji/ignore_me.png' height='22' />
+  <img src='emoji/il.png' height='22' />
   <img src='emoji/impatient.gif' height='22' />
   <img src='emoji/inquisitor_eye.png' height='22' />
   <img src='emoji/jeeves.png' height='22' />
@@ -89,6 +91,8 @@ A bunch of Slack Emoji which have accumulated over time. Use 'em if you wish.
   <img src='emoji/lastpass.png' height='22' />
   <img src='emoji/le-sigh.png' height='22' />
   <img src='emoji/lgtm-mario.png' height='22' />
+  <img src='emoji/llama-carl.png' height='22' />
+  <img src='emoji/llama-paul.png' height='22' />
   <img src='emoji/lumpy-space-princess.png' height='22' />
   <img src='emoji/magician.png' height='22' />
   <img src='emoji/magikarp.png' height='22' />
@@ -107,6 +111,7 @@ A bunch of Slack Emoji which have accumulated over time. Use 'em if you wish.
   <img src='emoji/ninja.png' height='22' />
   <img src='emoji/nod.gif' height='22' />
   <img src='emoji/nope.gif' height='22' />
+  <img src='emoji/ny.png' height='22' />
   <img src='emoji/nyan-cat.gif' height='22' />
   <img src='emoji/oddish.png' height='22' />
   <img src='emoji/oh-yeah-koolaid.png' height='22' />
@@ -127,6 +132,17 @@ A bunch of Slack Emoji which have accumulated over time. Use 'em if you wish.
   <img src='emoji/psyduck.png' height='22' />
   <img src='emoji/pug.png' height='22' />
   <img src='emoji/pun-dog.png' height='22' />
+  <img src='emoji/pusheen-baking.png' height='22' />
+  <img src='emoji/pusheen-box.png' height='22' />
+  <img src='emoji/pusheen-coding.png' height='22' />
+  <img src='emoji/pusheen-dj.png' height='22' />
+  <img src='emoji/pusheen-fancy.png' height='22' />
+  <img src='emoji/pusheen-happymeal.png' height='22' />
+  <img src='emoji/pusheen-ramen.png' height='22' />
+  <img src='emoji/pusheen-scooter.png' height='22' />
+  <img src='emoji/pusheen-standing.png' height='22' />
+  <img src='emoji/pusheen-sunglasses.png' height='22' />
+  <img src='emoji/pusheen-writing.png' height='22' />
   <img src='emoji/raised-eyebrow.png' height='22' />
   <img src='emoji/rattata.png' height='22' />
   <img src='emoji/red-panda.png' height='22' />
@@ -157,6 +173,7 @@ A bunch of Slack Emoji which have accumulated over time. Use 'em if you wish.
   <img src='emoji/this-guy.png' height='22' />
   <img src='emoji/tomservo.png' height='22' />
   <img src='emoji/tornado.jpg' height='22' />
+  <img src='emoji/toronto-bluejays.png' height='22' />
   <img src='emoji/tubbs.png' height='22' />
   <img src='emoji/voldemort.png' height='22' />
   <img src='emoji/voltorb.png' height='22' />
