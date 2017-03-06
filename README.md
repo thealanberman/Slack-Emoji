@@ -9,6 +9,7 @@ A bunch of Slack Emoji which have accumulated over time. Use 'em if you wish.
   <img src='emoji/arthurdent.png' height='22' />
   <img src='emoji/aw_yeah.gif' height='22' />
   <img src='emoji/awesome-face.png' height='22' />
+  <img src='emoji/bagel.png' height='22' />
   <img src='emoji/baguette.png' height='22' />
   <img src='emoji/batman-approves.png' height='22' />
   <img src='emoji/batman2.png' height='22' />
@@ -42,6 +43,7 @@ A bunch of Slack Emoji which have accumulated over time. Use 'em if you wish.
   <img src='emoji/crow.png' height='22' />
   <img src='emoji/crysknife.png' height='22' />
   <img src='emoji/cupcake.png' height='22' />
+  <img src='emoji/cylon.gif' height='22' />
   <img src='emoji/deadpool.jpg' height='22' />
   <img src='emoji/demon.png' height='22' />
   <img src='emoji/diglett.png' height='22' />
@@ -66,6 +68,7 @@ A bunch of Slack Emoji which have accumulated over time. Use 'em if you wish.
   <img src='emoji/fb-sad.gif' height='22' />
   <img src='emoji/fb-wow.gif' height='22' />
   <img src='emoji/fingerscrossed.gif' height='22' />
+  <img src='emoji/flaming-shitnado.png' height='22' />
   <img src='emoji/fozzie.png' height='22' />
   <img src='emoji/frenchman.png' height='22' />
   <img src='emoji/frustrated.png' height='22' />
@@ -181,6 +184,7 @@ A bunch of Slack Emoji which have accumulated over time. Use 'em if you wish.
   <img src='emoji/team-valor.png' height='22' />
   <img src='emoji/thecheat.png' height='22' />
   <img src='emoji/this-guy.png' height='22' />
+  <img src='emoji/toaster.png' height='22' />
   <img src='emoji/tomservo.png' height='22' />
   <img src='emoji/tornado.jpg' height='22' />
   <img src='emoji/toronto-bluejays.png' height='22' />
@@ -204,6 +208,7 @@ A bunch of Slack Emoji which have accumulated over time. Use 'em if you wish.
   <img src='emoji/zelda-oldman.png' height='22' />
   <img src='emoji/zoidberg.png' height='22' />
   <img src='emoji/zoidberg2.png' height='22' />
+  <img src='emoji/zoltar.png' height='22' />
   <img src='emoji/zombie.gif' height='22' />
   <img src='emoji/zombie.png' height='22' />
   <img src='emoji/zubat.png' height='22' />
