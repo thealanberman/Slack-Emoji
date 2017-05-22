@@ -1,9 +1,11 @@
 # Slack-Emoji
 A bunch of Slack Emoji which have accumulated over time. Use 'em if you wish.
 <div height="220">
+  <img src='emoji/airwatch.gif' height='22' />
   <img src='emoji/alien.png' height='22' />
   <img src='emoji/allthethings.png' height='22' />
   <img src='emoji/anarchy.png' height='22' />
+  <img src='emoji/angry.png' height='22' />
   <img src='emoji/Apple-Logo-rainbow.png' height='22' />
   <img src='emoji/apple-pie.png' height='22' />
   <img src='emoji/arthurdent.png' height='22' />
@@ -45,12 +47,16 @@ A bunch of Slack Emoji which have accumulated over time. Use 'em if you wish.
   <img src='emoji/cupcake.png' height='22' />
   <img src='emoji/cylon.gif' height='22' />
   <img src='emoji/deadpool.jpg' height='22' />
+  <img src='emoji/death_star.png' height='22' />
   <img src='emoji/demon.png' height='22' />
   <img src='emoji/diglett.png' height='22' />
   <img src='emoji/dignity.jpg' height='22' />
   <img src='emoji/doduo.png' height='22' />
+  <img src='emoji/doge.png' height='22' />
   <img src='emoji/doublefacepalm-picard.jpg' height='22' />
+  <img src='emoji/dr-seuss-hat.png' height='22' />
   <img src='emoji/dreidel.jpg' height='22' />
+  <img src='emoji/dubious.jpg' height='22' />
   <img src='emoji/duck.png' height='22' />
   <img src='emoji/dungeon-master.png' height='22' />
   <img src='emoji/eagle.png' height='22' />
@@ -65,6 +71,7 @@ A bunch of Slack Emoji which have accumulated over time. Use 'em if you wish.
   <img src='emoji/eyepatch.png' height='22' />
   <img src='emoji/facepalm-picard.jpg' height='22' />
   <img src='emoji/facepalm.png' height='22' />
+  <img src='emoji/fb-laugh.gif' height='22' />
   <img src='emoji/fb-sad.gif' height='22' />
   <img src='emoji/fb-wow.gif' height='22' />
   <img src='emoji/fingerscrossed.gif' height='22' />
@@ -72,6 +79,7 @@ A bunch of Slack Emoji which have accumulated over time. Use 'em if you wish.
   <img src='emoji/fozzie.png' height='22' />
   <img src='emoji/frenchman.png' height='22' />
   <img src='emoji/frustrated.png' height='22' />
+  <img src='emoji/fry.png' height='22' />
   <img src='emoji/georgerrmartin.png' height='22' />
   <img src='emoji/gir_dance.gif' height='22' />
   <img src='emoji/gold-fish.png' height='22' />
@@ -96,6 +104,8 @@ A bunch of Slack Emoji which have accumulated over time. Use 'em if you wish.
   <img src='emoji/jeeves.png' height='22' />
   <img src='emoji/jigglypuff.png' height='22' />
   <img src='emoji/jon_snow.png' height='22' />
+  <img src='emoji/kappa.png' height='22' />
+  <img src='emoji/kermit-flail.gif' height='22' />
   <img src='emoji/khaldrogo.png' height='22' />
   <img src='emoji/koffing.png' height='22' />
   <img src='emoji/lastpass.png' height='22' />
@@ -113,8 +123,10 @@ A bunch of Slack Emoji which have accumulated over time. Use 'em if you wish.
   <img src='emoji/meowth.png' height='22' />
   <img src='emoji/mic-drop.png' height='22' />
   <img src='emoji/MN.png' height='22' />
+  <img src='emoji/moss.png' height='22' />
   <img src='emoji/moustache.png' height='22' />
   <img src='emoji/movember.gif' height='22' />
+  <img src='emoji/mr-nutty-snowman.png' height='22' />
   <img src='emoji/neko-ball.gif' height='22' />
   <img src='emoji/nic-cage.png' height='22' />
   <img src='emoji/nidoran-female.png' height='22' />
@@ -138,6 +150,8 @@ A bunch of Slack Emoji which have accumulated over time. Use 'em if you wish.
   <img src='emoji/pink-unicorn.png' height='22' />
   <img src='emoji/pirate-smiley.jpg' height='22' />
   <img src='emoji/pirate.png' height='22' />
+  <img src='emoji/pointy-obama.png' height='22' />
+  <img src='emoji/pokey-the-penguin.png' height='22' />
   <img src='emoji/poliwag.png' height='22' />
   <img src='emoji/ponyta.png' height='22' />
   <img src='emoji/psyduck.png' height='22' />
@@ -154,21 +168,24 @@ A bunch of Slack Emoji which have accumulated over time. Use 'em if you wish.
   <img src='emoji/pusheen-standing.png' height='22' />
   <img src='emoji/pusheen-sunglasses.png' height='22' />
   <img src='emoji/pusheen-writing.png' height='22' />
+  <img src='emoji/raina-dealwithit.gif' height='22' />
   <img src='emoji/raised-eyebrow.png' height='22' />
   <img src='emoji/rattata.png' height='22' />
   <img src='emoji/red-panda.png' height='22' />
   <img src='emoji/rhyhorn.png' height='22' />
+  <img src='emoji/roy.png' height='22' />
   <img src='emoji/salt.png' height='22' />
   <img src='emoji/sandshrew.png' height='22' />
   <img src='emoji/sapphire.png' height='22' />
   <img src='emoji/senor.png' height='22' />
   <img src='emoji/shark.jpg' height='22' />
-  <img src='emoji/shrug.jpg' height='22' />
+  <img src='emoji/shrug.png' height='22' />
   <img src='emoji/shut-up-and-take-my-money.png' height='22' />
   <img src='emoji/sideshowbob.png' height='22' />
   <img src='emoji/silver-fish.png' height='22' />
   <img src='emoji/skeptical.png' height='22' />
   <img src='emoji/slippery-stairs.png' height='22' />
+  <img src='emoji/smiley-quote-gesture.png' height='22' />
   <img src='emoji/snorlax.png' height='22' />
   <img src='emoji/soviet-flag.png' height='22' />
   <img src='emoji/spearow.png' height='22' />
@@ -184,11 +201,13 @@ A bunch of Slack Emoji which have accumulated over time. Use 'em if you wish.
   <img src='emoji/team-valor.png' height='22' />
   <img src='emoji/thecheat.png' height='22' />
   <img src='emoji/this-guy.png' height='22' />
+  <img src='emoji/thumb-in-ear.png' height='22' />
   <img src='emoji/toaster.png' height='22' />
   <img src='emoji/tomservo.png' height='22' />
   <img src='emoji/tornado.jpg' height='22' />
   <img src='emoji/toronto-bluejays.png' height='22' />
   <img src='emoji/towel.png' height='22' />
+  <img src='emoji/troll.png' height='22' />
   <img src='emoji/tubbs.png' height='22' />
   <img src='emoji/two-headed-monster-left.png' height='22' />
   <img src='emoji/two-headed-monster-right.png' height='22' />
@@ -200,8 +219,10 @@ A bunch of Slack Emoji which have accumulated over time. Use 'em if you wish.
   <img src='emoji/weedle.png' height='22' />
   <img src='emoji/whiskey.png' height='22' />
   <img src='emoji/whitewalker.png' height='22' />
+  <img src='emoji/whoa.jpg' height='22' />
   <img src='emoji/wizard.gif' height='22' />
   <img src='emoji/yay.png' height='22' />
+  <img src='emoji/yuno.png' height='22' />
   <img src='emoji/zaphod.png' height='22' />
   <img src='emoji/zelda-fire.gif' height='22' />
   <img src='emoji/zelda-moblin.png' height='22' />
