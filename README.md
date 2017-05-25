@@ -168,7 +168,6 @@ A bunch of Slack Emoji which have accumulated over time. Use 'em if you wish.
   <img src='emoji/pusheen-standing.png' height='22' />
   <img src='emoji/pusheen-sunglasses.png' height='22' />
   <img src='emoji/pusheen-writing.png' height='22' />
-  <img src='emoji/raina-dealwithit.gif' height='22' />
   <img src='emoji/raised-eyebrow.png' height='22' />
   <img src='emoji/rattata.png' height='22' />
   <img src='emoji/red-panda.png' height='22' />
