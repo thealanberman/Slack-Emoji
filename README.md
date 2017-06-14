@@ -51,6 +51,7 @@ A bunch of Slack Emoji which have accumulated over time. Use 'em if you wish.
   <img src='emoji/demon.png' height='22' />
   <img src='emoji/diglett.png' height='22' />
   <img src='emoji/dignity.jpg' height='22' />
+  <img src='emoji/doc-holliday.jpg' height='22' />
   <img src='emoji/doduo.png' height='22' />
   <img src='emoji/doge.png' height='22' />
   <img src='emoji/doublefacepalm-picard.jpg' height='22' />
@@ -60,6 +61,7 @@ A bunch of Slack Emoji which have accumulated over time. Use 'em if you wish.
   <img src='emoji/duck.png' height='22' />
   <img src='emoji/dungeon-master.png' height='22' />
   <img src='emoji/eagle.png' height='22' />
+  <img src='emoji/eel.png' height='22' />
   <img src='emoji/eevee.png' height='22' />
   <img src='emoji/ekans.png' height='22' />
   <img src='emoji/elf.png' height='22' />
@@ -94,6 +96,7 @@ A bunch of Slack Emoji which have accumulated over time. Use 'em if you wish.
   <img src='emoji/hodor.png' height='22' />
   <img src='emoji/homer-disappear.gif' height='22' />
   <img src='emoji/homestar.gif' height='22' />
+  <img src='emoji/hot-melting.png' height='22' />
   <img src='emoji/hoverboard.gif' height='22' />
   <img src='emoji/huey.png' height='22' />
   <img src='emoji/ie.png' height='22' />
@@ -114,6 +117,7 @@ A bunch of Slack Emoji which have accumulated over time. Use 'em if you wish.
   <img src='emoji/lgtm-mario.png' height='22' />
   <img src='emoji/llama-carl.png' height='22' />
   <img src='emoji/llama-paul.png' height='22' />
+  <img src='emoji/lol.png' height='22' />
   <img src='emoji/lumpy-space-princess.png' height='22' />
   <img src='emoji/magician.png' height='22' />
   <img src='emoji/magikarp.png' height='22' />
