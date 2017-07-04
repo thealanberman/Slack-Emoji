@@ -17,6 +17,7 @@ A bunch of Slack Emoji which have accumulated over time. Use 'em if you wish.
   <img src='emoji/batman2.png' height='22' />
   <img src='emoji/beaker.png' height='22' />
   <img src='emoji/beaver.gif' height='22' />
+  <img src='emoji/beelzebot.jpg' height='22' />
   <img src='emoji/blender.png' height='22' />
   <img src='emoji/bloodhand.png' height='22' />
   <img src='emoji/blue-unicorn.png' height='22' />
