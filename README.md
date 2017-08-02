@@ -127,6 +127,7 @@ A bunch of Slack Emoji which have accumulated over time. Use 'em if you wish.
   <img src='emoji/owl.gif' height='22' />
   <img src='emoji/paras.png' height='22' />
   <img src='emoji/parrot.gif' height='22' />
+  <img src='emoji/party-turtle.gif' height='22' />
   <img src='emoji/party.jpg' height='22' />
   <img src='emoji/party_parrot.gif' height='22' />
   <img src='emoji/peaches.png' height='22' />
