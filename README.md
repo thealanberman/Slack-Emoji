@@ -182,6 +182,7 @@ A bunch of Slack Emoji which have accumulated over time. Use 'em if you wish.
   <img src='emoji/pusheen-standing.png' height='22' />
   <img src='emoji/pusheen-sunglasses.png' height='22' />
   <img src='emoji/pusheen-writing.png' height='22' />
+  <img src='emoji/raccoon.png' height='22' />
   <img src='emoji/raised-eyebrow.png' height='22' />
   <img src='emoji/rattata.png' height='22' />
   <img src='emoji/red-panda.png' height='22' />
@@ -243,6 +244,7 @@ A bunch of Slack Emoji which have accumulated over time. Use 'em if you wish.
   <img src='emoji/zelda-oldman.png' height='22' />
   <img src='emoji/zoidberg.png' height='22' />
   <img src='emoji/zoidberg2.png' height='22' />
+  <img src='emoji/zoltar.gif' height='22' />
   <img src='emoji/zoltar.png' height='22' />
   <img src='emoji/zombie.gif' height='22' />
   <img src='emoji/zombie.png' height='22' />
