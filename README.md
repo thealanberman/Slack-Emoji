@@ -147,6 +147,7 @@ A bunch of Slack Emoji which have accumulated over time. Use 'em if you wish.
   <img src='emoji/nyan-cat.gif' height='22' />
   <img src='emoji/oddish.png' height='22' />
   <img src='emoji/oh-yeah-koolaid.png' height='22' />
+  <img src='emoji/omg-panda.gif' height='22' />
   <img src='emoji/one-ring.png' height='22' />
   <img src='emoji/owl.gif' height='22' />
   <img src='emoji/pamplemousse.png' height='22' />
