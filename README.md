@@ -49,6 +49,7 @@ A bunch of Slack Emoji which have accumulated over time. Use 'em if you wish.
   <img src='emoji/crysknife.png' height='22' />
   <img src='emoji/cupcake.png' height='22' />
   <img src='emoji/cylon.gif' height='22' />
+  <img src='emoji/daphne.png' height='22' />
   <img src='emoji/deadpool.jpg' height='22' />
   <img src='emoji/death_star.png' height='22' />
   <img src='emoji/demon.png' height='22' />
@@ -82,6 +83,7 @@ A bunch of Slack Emoji which have accumulated over time. Use 'em if you wish.
   <img src='emoji/fingerscrossed.gif' height='22' />
   <img src='emoji/flaming-shitnado.png' height='22' />
   <img src='emoji/fozzie.png' height='22' />
+  <img src='emoji/fred.png' height='22' />
   <img src='emoji/frenchman.png' height='22' />
   <img src='emoji/frustrated.png' height='22' />
   <img src='emoji/fry.png' height='22' />
@@ -153,6 +155,7 @@ A bunch of Slack Emoji which have accumulated over time. Use 'em if you wish.
   <img src='emoji/pamplemousse.png' height='22' />
   <img src='emoji/paras.png' height='22' />
   <img src='emoji/parrot.gif' height='22' />
+  <img src='emoji/party-turtle-mustache.png' height='22' />
   <img src='emoji/party-turtle.gif' height='22' />
   <img src='emoji/party.jpg' height='22' />
   <img src='emoji/party_parrot.gif' height='22' />
@@ -192,7 +195,10 @@ A bunch of Slack Emoji which have accumulated over time. Use 'em if you wish.
   <img src='emoji/salt.png' height='22' />
   <img src='emoji/sandshrew.png' height='22' />
   <img src='emoji/sapphire.png' height='22' />
+  <img src='emoji/scooby.png' height='22' />
+  <img src='emoji/scrappy.png' height='22' />
   <img src='emoji/senor.png' height='22' />
+  <img src='emoji/shaggy.gif' height='22' />
   <img src='emoji/shark.jpg' height='22' />
   <img src='emoji/shrug.png' height='22' />
   <img src='emoji/shut-up-and-take-my-money.png' height='22' />
@@ -226,6 +232,7 @@ A bunch of Slack Emoji which have accumulated over time. Use 'em if you wish.
   <img src='emoji/tubbs.png' height='22' />
   <img src='emoji/two-headed-monster-left.png' height='22' />
   <img src='emoji/two-headed-monster-right.png' height='22' />
+  <img src='emoji/velma.png' height='22' />
   <img src='emoji/voldemort.png' height='22' />
   <img src='emoji/voltorb.png' height='22' />
   <img src='emoji/vulpix.png' height='22' />
