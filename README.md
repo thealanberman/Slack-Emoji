@@ -122,6 +122,7 @@ A bunch of Slack Emoji which have accumulated over time. Use 'em if you wish.
   <img src='emoji/llama-carl.png' height='22' />
   <img src='emoji/llama-paul.png' height='22' />
   <img src='emoji/lol.png' height='22' />
+  <img src='emoji/lucille-bluth.png' height='22' />
   <img src='emoji/lumpy-space-princess.png' height='22' />
   <img src='emoji/magician.png' height='22' />
   <img src='emoji/magikarp.png' height='22' />
