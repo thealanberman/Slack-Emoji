@@ -3,11 +3,11 @@ A bunch of Slack Emoji which have accumulated over time. Use 'em if you wish.
 <div height="220">
   <img src='emoji/ackbar-trap.png' height='22' />
   <img src='emoji/airwatch.gif' height='22' />
-  <img src='emoji/alien.png' height='22' />
+  <img src='emoji/alien-xenomorph.png' height='22' />
   <img src='emoji/allthethings.png' height='22' />
   <img src='emoji/anarchy.png' height='22' />
-  <img src='emoji/angry.png' height='22' />
-  <img src='emoji/Apple-Logo-rainbow.png' height='22' />
+  <img src='emoji/angrier.png' height='22' />
+  <img src='emoji/apple-logo-rainbow.png' height='22' />
   <img src='emoji/apple-pie.png' height='22' />
   <img src='emoji/arthurdent.png' height='22' />
   <img src='emoji/aw_yeah.gif' height='22' />
@@ -22,7 +22,7 @@ A bunch of Slack Emoji which have accumulated over time. Use 'em if you wish.
   <img src='emoji/blender.png' height='22' />
   <img src='emoji/bloodhand.png' height='22' />
   <img src='emoji/blue-unicorn.png' height='22' />
-  <img src='emoji/Boba-Fett-icon.png' height='22' />
+  <img src='emoji/boba-fett.png' height='22' />
   <img src='emoji/bobross.gif' height='22' />
   <img src='emoji/brain.gif' height='22' />
   <img src='emoji/broccoli.png' height='22' />
@@ -32,7 +32,7 @@ A bunch of Slack Emoji which have accumulated over time. Use 'em if you wish.
   <img src='emoji/bunsen-honeydew.png' height='22' />
   <img src='emoji/burninated-peasant.png' height='22' />
   <img src='emoji/busy-bee.gif' height='22' />
-  <img src='emoji/CA.png' height='22' />
+  <img src='emoji/ca.png' height='22' />
   <img src='emoji/cardboard-truck.png' height='22' />
   <img src='emoji/caterpie.png' height='22' />
   <img src='emoji/charlie.png' height='22' />
@@ -43,8 +43,7 @@ A bunch of Slack Emoji which have accumulated over time. Use 'em if you wish.
   <img src='emoji/clefairy.png' height='22' />
   <img src='emoji/coffee-bean.png' height='22' />
   <img src='emoji/coily.png' height='22' />
-  <img src='emoji/cookie.png' height='22' />
-  <img src='emoji/croissant.png' height='22' />
+  <img src='emoji/cookiemonster.png' height='22' />
   <img src='emoji/crow.png' height='22' />
   <img src='emoji/crysknife.png' height='22' />
   <img src='emoji/cupcake.png' height='22' />
@@ -61,7 +60,7 @@ A bunch of Slack Emoji which have accumulated over time. Use 'em if you wish.
   <img src='emoji/doublefacepalm-picard.jpg' height='22' />
   <img src='emoji/dr-seuss-hat.png' height='22' />
   <img src='emoji/dreidel.jpg' height='22' />
-  <img src='emoji/dubious.jpg' height='22' />
+  <img src='emoji/dubious.png' height='22' />
   <img src='emoji/duck.png' height='22' />
   <img src='emoji/dungeon-master.png' height='22' />
   <img src='emoji/eagle.png' height='22' />
@@ -76,7 +75,6 @@ A bunch of Slack Emoji which have accumulated over time. Use 'em if you wish.
   <img src='emoji/eye-roll.png' height='22' />
   <img src='emoji/eyepatch.png' height='22' />
   <img src='emoji/facepalm-picard.jpg' height='22' />
-  <img src='emoji/facepalm.png' height='22' />
   <img src='emoji/fb-laugh.gif' height='22' />
   <img src='emoji/fb-sad.gif' height='22' />
   <img src='emoji/fb-wow.gif' height='22' />
@@ -130,10 +128,9 @@ A bunch of Slack Emoji which have accumulated over time. Use 'em if you wish.
   <img src='emoji/mankey.png' height='22' />
   <img src='emoji/marvin.png' height='22' />
   <img src='emoji/marzipan.gif' height='22' />
-  <img src='emoji/menorah.jpg' height='22' />
   <img src='emoji/meowth.png' height='22' />
   <img src='emoji/mic-drop.png' height='22' />
-  <img src='emoji/MN.png' height='22' />
+  <img src='emoji/mn.png' height='22' />
   <img src='emoji/moss.png' height='22' />
   <img src='emoji/moustache.png' height='22' />
   <img src='emoji/movember.gif' height='22' />
@@ -157,7 +154,6 @@ A bunch of Slack Emoji which have accumulated over time. Use 'em if you wish.
   <img src='emoji/parrot.gif' height='22' />
   <img src='emoji/party-turtle-mustache.png' height='22' />
   <img src='emoji/party-turtle.gif' height='22' />
-  <img src='emoji/party.jpg' height='22' />
   <img src='emoji/party_parrot.gif' height='22' />
   <img src='emoji/peaches.png' height='22' />
   <img src='emoji/pidgey.png' height='22' />
@@ -225,7 +221,6 @@ A bunch of Slack Emoji which have accumulated over time. Use 'em if you wish.
   <img src='emoji/thumb-in-ear.png' height='22' />
   <img src='emoji/toaster.png' height='22' />
   <img src='emoji/tomservo.png' height='22' />
-  <img src='emoji/tornado.jpg' height='22' />
   <img src='emoji/toronto-bluejays.png' height='22' />
   <img src='emoji/towel.png' height='22' />
   <img src='emoji/troll.png' height='22' />
@@ -252,8 +247,7 @@ A bunch of Slack Emoji which have accumulated over time. Use 'em if you wish.
   <img src='emoji/zoidberg.png' height='22' />
   <img src='emoji/zoidberg2.png' height='22' />
   <img src='emoji/zoltar.gif' height='22' />
-  <img src='emoji/zoltar.png' height='22' />
-  <img src='emoji/zombie.gif' height='22' />
+  <img src='emoji/zombie-walk.gif' height='22' />
   <img src='emoji/zombie.png' height='22' />
   <img src='emoji/zubat.png' height='22' />
 </div>
